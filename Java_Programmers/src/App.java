@@ -1,4 +1,4 @@
-import Level_1.짝수와홀수.Solution;
+import Level_1.자릿수더하기.Solution;
 
 public class App {
     public static void main(String[] args) throws Exception {
