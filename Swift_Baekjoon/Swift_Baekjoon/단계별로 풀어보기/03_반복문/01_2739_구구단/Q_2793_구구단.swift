@@ -6,3 +6,11 @@
 //
 
 import Foundation
+
+func q_2793() {
+    let danNum = Int(readLine()!)!
+    
+    for i in 1...9 {
+        print("\(danNum) * \(i) = \(danNum * i)")
+    }
+}
