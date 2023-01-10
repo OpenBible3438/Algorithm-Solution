@@ -15,6 +15,8 @@
 		651E4B5B29644D71009E637B /* Q_10950_A+B.swift in Sources */ = {isa = PBXBuildFile; fileRef = 651E4B5A29644D71009E637B /* Q_10950_A+B.swift */; };
 		6526C0D1296DAD8000609D39 /* Q_14681_사분면고르기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6526C0D0296DAD8000609D39 /* Q_14681_사분면고르기.swift */; };
 		6526C0D5296DAFC900609D39 /* Q_2884_알람시계.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6526C0D4296DAFC900609D39 /* Q_2884_알람시계.swift */; };
+		6526C0D9296DB15000609D39 /* Q_2525_오븐시계.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6526C0D8296DB15000609D39 /* Q_2525_오븐시계.swift */; };
+		6526C0DD296DB28700609D39 /* Q_2480_주사위세개.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6526C0DC296DB28700609D39 /* Q_2480_주사위세개.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -46,6 +48,10 @@
 		6526C0D2296DAEBD00609D39 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6526C0D4296DAFC900609D39 /* Q_2884_알람시계.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_2884_알람시계.swift"; sourceTree = "<group>"; };
 		6526C0D6296DAFD700609D39 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6526C0D8296DB15000609D39 /* Q_2525_오븐시계.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_2525_오븐시계.swift"; sourceTree = "<group>"; };
+		6526C0DA296DB15C00609D39 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6526C0DC296DB28700609D39 /* Q_2480_주사위세개.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_2480_주사위세개.swift"; sourceTree = "<group>"; };
+		6526C0DE296DB29600609D39 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +103,8 @@
 		651E4B4729644027009E637B /* 02_조건문 */ = {
 			isa = PBXGroup;
 			children = (
+				6526C0DB296DB25E00609D39 /* 07_2480_주사위세개 */,
+				6526C0D7296DB13700609D39 /* 06_2525_오븐시계 */,
 				6526C0D3296DAFA800609D39 /* 05_2884_알람시계 */,
 				6526C0CF296DAD5900609D39 /* 04_14681_사분면고르기 */,
 				651E4B50296448B4009E637B /* 03_2753_윤년 */,
@@ -186,6 +194,26 @@
 			path = "05_2884_알람시계";
 			sourceTree = "<group>";
 		};
+		6526C0D7296DB13700609D39 /* 06_2525_오븐시계 */ = {
+			isa = PBXGroup;
+			children = (
+				6526C0D8296DB15000609D39 /* Q_2525_오븐시계.swift */,
+				6526C0DA296DB15C00609D39 /* README.md */,
+			);
+			name = "06_2525_오븐시계";
+			path = "06_2525_오븐시계";
+			sourceTree = "<group>";
+		};
+		6526C0DB296DB25E00609D39 /* 07_2480_주사위세개 */ = {
+			isa = PBXGroup;
+			children = (
+				6526C0DC296DB28700609D39 /* Q_2480_주사위세개.swift */,
+				6526C0DE296DB29600609D39 /* README.md */,
+			);
+			name = "07_2480_주사위세개";
+			path = "07_2480_주사위세개";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -244,6 +272,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6526C0D9296DB15000609D39 /* Q_2525_오븐시계.swift in Sources */,
 				651E4B4929644057009E637B /* Q_1330_두수비교하기.swift in Sources */,
 				6526C0D1296DAD8000609D39 /* Q_14681_사분면고르기.swift in Sources */,
 				651E4B52296448E0009E637B /* Q_2753_윤년.swift in Sources */,
@@ -251,6 +280,7 @@
 				651E4B4029643F12009E637B /* main.swift in Sources */,
 				6526C0D5296DAFC900609D39 /* Q_2884_알람시계.swift in Sources */,
 				651E4B5729644AF2009E637B /* Q_2793_구구단.swift in Sources */,
+				6526C0DD296DB28700609D39 /* Q_2480_주사위세개.swift in Sources */,
 				651E4B4E29644620009E637B /* Q_9498_시험성적.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
