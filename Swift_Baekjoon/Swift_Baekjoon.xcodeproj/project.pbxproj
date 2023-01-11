@@ -20,6 +20,7 @@
 		6582BEC5296EFDF900D5FDA3 /* Q_8393_합.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BEC4296EFDF900D5FDA3 /* Q_8393_합.swift */; };
 		6582BEC9296EFE8E00D5FDA3 /* Q_25304_영수증.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BEC8296EFE8E00D5FDA3 /* Q_25304_영수증.swift */; };
 		6582BECD296EFFA800D5FDA3 /* Q_11021_A+B-7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BECC296EFFA800D5FDA3 /* Q_11021_A+B-7.swift */; };
+		6582BED1296F006800D5FDA3 /* Q_11022_A+B-8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BED0296F006800D5FDA3 /* Q_11022_A+B-8.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +62,8 @@
 		6582BECA296EFE9900D5FDA3 /* READMD.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = READMD.md; sourceTree = "<group>"; };
 		6582BECC296EFFA800D5FDA3 /* Q_11021_A+B-7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_11021_A+B-7.swift"; sourceTree = "<group>"; };
 		6582BECE296EFFB800D5FDA3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6582BED0296F006800D5FDA3 /* Q_11022_A+B-8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_11022_A+B-8.swift"; sourceTree = "<group>"; };
+		6582BED2296F007300D5FDA3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,6 +160,7 @@
 		651E4B5429644A90009E637B /* 03_반복문 */ = {
 			isa = PBXGroup;
 			children = (
+				6582BECF296F003900D5FDA3 /* 07_11022_A+B-8 */,
 				6582BECB296EFF6200D5FDA3 /* 06_11021_A+B-7 */,
 				6582BEC7296EFE7000D5FDA3 /* 04_25304_영수증 */,
 				6582BEC3296EFDD500D5FDA3 /* 03_8393_합 */,
@@ -256,6 +260,15 @@
 			path = "05_15552_빠른A+B";
 			sourceTree = "<group>";
 		};
+		6582BECF296F003900D5FDA3 /* 07_11022_A+B-8 */ = {
+			isa = PBXGroup;
+			children = (
+				6582BED0296F006800D5FDA3 /* Q_11022_A+B-8.swift */,
+				6582BED2296F007300D5FDA3 /* README.md */,
+			);
+			path = "07_11022_A+B-8";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -316,6 +329,7 @@
 			files = (
 				6582BEC5296EFDF900D5FDA3 /* Q_8393_합.swift in Sources */,
 				6526C0D9296DB15000609D39 /* Q_2525_오븐시계.swift in Sources */,
+				6582BED1296F006800D5FDA3 /* Q_11022_A+B-8.swift in Sources */,
 				651E4B4929644057009E637B /* Q_1330_두수비교하기.swift in Sources */,
 				6526C0D1296DAD8000609D39 /* Q_14681_사분면고르기.swift in Sources */,
 				651E4B52296448E0009E637B /* Q_2753_윤년.swift in Sources */,
