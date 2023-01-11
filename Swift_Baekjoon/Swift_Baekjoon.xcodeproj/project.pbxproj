@@ -22,6 +22,8 @@
 		6582BECD296EFFA800D5FDA3 /* Q_11021_A+B-7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BECC296EFFA800D5FDA3 /* Q_11021_A+B-7.swift */; };
 		6582BED1296F006800D5FDA3 /* Q_11022_A+B-8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BED0296F006800D5FDA3 /* Q_11022_A+B-8.swift */; };
 		6582BED5296F012C00D5FDA3 /* Q_2438_별찍기-1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BED4296F012C00D5FDA3 /* Q_2438_별찍기-1.swift */; };
+		6582BED9296F01EF00D5FDA3 /* Q_2439_별찍기-2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BED8296F01EF00D5FDA3 /* Q_2439_별찍기-2.swift */; };
+		6582BEDD296F026100D5FDA3 /* Q_10952_A+B-5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6582BEDC296F026100D5FDA3 /* Q_10952_A+B-5.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -67,6 +69,10 @@
 		6582BED2296F007300D5FDA3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6582BED4296F012C00D5FDA3 /* Q_2438_별찍기-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_2438_별찍기-1.swift"; sourceTree = "<group>"; };
 		6582BED6296F013800D5FDA3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6582BED8296F01EF00D5FDA3 /* Q_2439_별찍기-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_2439_별찍기-2.swift"; sourceTree = "<group>"; };
+		6582BEDA296F01FA00D5FDA3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6582BEDC296F026100D5FDA3 /* Q_10952_A+B-5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_10952_A+B-5.swift"; sourceTree = "<group>"; };
+		6582BEDE296F026E00D5FDA3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +169,8 @@
 		651E4B5429644A90009E637B /* 03_반복문 */ = {
 			isa = PBXGroup;
 			children = (
+				6582BEDB296F024400D5FDA3 /* 10_10952_A+B-5 */,
+				6582BED7296F01CB00D5FDA3 /* 09_2439_별찍기-2 */,
 				6582BED3296F010F00D5FDA3 /* 08_2438_별찍기-1 */,
 				6582BECF296F003900D5FDA3 /* 07_11022_A+B-8 */,
 				6582BECB296EFF6200D5FDA3 /* 06_11021_A+B-7 */,
@@ -283,6 +291,25 @@
 			path = "08_2438_별찍기-1";
 			sourceTree = "<group>";
 		};
+		6582BED7296F01CB00D5FDA3 /* 09_2439_별찍기-2 */ = {
+			isa = PBXGroup;
+			children = (
+				6582BED8296F01EF00D5FDA3 /* Q_2439_별찍기-2.swift */,
+				6582BEDA296F01FA00D5FDA3 /* README.md */,
+			);
+			name = "09_2439_별찍기-2";
+			path = "09_2439_별찍기-2";
+			sourceTree = "<group>";
+		};
+		6582BEDB296F024400D5FDA3 /* 10_10952_A+B-5 */ = {
+			isa = PBXGroup;
+			children = (
+				6582BEDC296F026100D5FDA3 /* Q_10952_A+B-5.swift */,
+				6582BEDE296F026E00D5FDA3 /* README.md */,
+			);
+			path = "10_10952_A+B-5";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -343,6 +370,7 @@
 			files = (
 				6582BEC5296EFDF900D5FDA3 /* Q_8393_합.swift in Sources */,
 				6526C0D9296DB15000609D39 /* Q_2525_오븐시계.swift in Sources */,
+				6582BEDD296F026100D5FDA3 /* Q_10952_A+B-5.swift in Sources */,
 				6582BED1296F006800D5FDA3 /* Q_11022_A+B-8.swift in Sources */,
 				651E4B4929644057009E637B /* Q_1330_두수비교하기.swift in Sources */,
 				6526C0D1296DAD8000609D39 /* Q_14681_사분면고르기.swift in Sources */,
@@ -355,6 +383,7 @@
 				6526C0D5296DAFC900609D39 /* Q_2884_알람시계.swift in Sources */,
 				651E4B5729644AF2009E637B /* Q_2793_구구단.swift in Sources */,
 				6526C0DD296DB28700609D39 /* Q_2480_주사위세개.swift in Sources */,
+				6582BED9296F01EF00D5FDA3 /* Q_2439_별찍기-2.swift in Sources */,
 				651E4B4E29644620009E637B /* Q_9498_시험성적.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
