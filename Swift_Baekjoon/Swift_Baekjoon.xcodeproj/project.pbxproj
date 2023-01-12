@@ -206,7 +206,7 @@
 				6582BED7296F01CB00D5FDA3 /* 09_2439_별찍기-2 */,
 				6582BED3296F010F00D5FDA3 /* 08_2438_별찍기-1 */,
 				6582BECF296F003900D5FDA3 /* 07_11022_A+B-8 */,
-				6582BECB296EFF6200D5FDA3 /* 06_11021_A+B-7 */,
+				6582BECB296EFF6200D5FDA3 /* 06_11021_A+B-7(rename) */,
 				6582BEC7296EFE7000D5FDA3 /* 04_25304_영수증 */,
 				6582BEC3296EFDD500D5FDA3 /* 03_8393_합 */,
 				651E4B5929644D3F009E637B /* 02_10950_A+B-3 */,
@@ -295,13 +295,13 @@
 			path = "04_25304_영수증";
 			sourceTree = "<group>";
 		};
-		6582BECB296EFF6200D5FDA3 /* 06_11021_A+B-7 */ = {
+		6582BECB296EFF6200D5FDA3 /* 06_11021_A+B-7(rename) */ = {
 			isa = PBXGroup;
 			children = (
 				6582BECC296EFFA800D5FDA3 /* Q_11021_A+B-7.swift */,
 				6582BECE296EFFB800D5FDA3 /* README.md */,
 			);
-			name = "06_11021_A+B-7";
+			name = "06_11021_A+B-7(rename)";
 			path = "05_15552_빠른A+B";
 			sourceTree = "<group>";
 		};
