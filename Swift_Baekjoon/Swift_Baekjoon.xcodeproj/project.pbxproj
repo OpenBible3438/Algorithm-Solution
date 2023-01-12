@@ -32,6 +32,7 @@
 		65DEB46D297034F900586059 /* Q_2562_최댓값.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DEB46C297034F900586059 /* Q_2562_최댓값.swift */; };
 		65DEB4722970357900586059 /* Q_5597_과제안내신분.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DEB4712970357900586059 /* Q_5597_과제안내신분.swift */; };
 		65DEB476297035F500586059 /* Q_3052_나머지.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DEB475297035F500586059 /* Q_3052_나머지.swift */; };
+		65DEB47A2970367800586059 /* Q_1546_평균.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65DEB4792970367800586059 /* Q_1546_평균.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -97,6 +98,8 @@
 		65DEB4732970358300586059 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		65DEB475297035F500586059 /* Q_3052_나머지.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_3052_나머지.swift"; sourceTree = "<group>"; };
 		65DEB4772970360000586059 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		65DEB4792970367800586059 /* Q_1546_평균.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Q_1546_평균.swift"; sourceTree = "<group>"; };
+		65DEB47B2970368200586059 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -359,6 +362,7 @@
 		65DEB45E2970333100586059 /* 04_1차원_배열 */ = {
 			isa = PBXGroup;
 			children = (
+				65DEB4782970365F00586059 /* 07_1546_평균 */,
 				65DEB474297035D900586059 /* 06_3052_나머지 */,
 				65DEB46F2970355000586059 /* 05_5597_과제안내신분? */,
 				65DEB46B297034DE00586059 /* 04_2562_최댓값 */,
@@ -430,6 +434,16 @@
 			path = "06_3052_나머지";
 			sourceTree = "<group>";
 		};
+		65DEB4782970365F00586059 /* 07_1546_평균 */ = {
+			isa = PBXGroup;
+			children = (
+				65DEB4792970367800586059 /* Q_1546_평균.swift */,
+				65DEB47B2970368200586059 /* README.md */,
+			);
+			name = "07_1546_평균";
+			path = "07_1546_평균";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -496,6 +510,7 @@
 				6582BEDD296F026100D5FDA3 /* Q_10952_A+B-5.swift in Sources */,
 				6582BED1296F006800D5FDA3 /* Q_11022_A+B-8.swift in Sources */,
 				65DEB46D297034F900586059 /* Q_2562_최댓값.swift in Sources */,
+				65DEB47A2970367800586059 /* Q_1546_평균.swift in Sources */,
 				651E4B4929644057009E637B /* Q_1330_두수비교하기.swift in Sources */,
 				6526C0D1296DAD8000609D39 /* Q_14681_사분면고르기.swift in Sources */,
 				651E4B52296448E0009E637B /* Q_2753_윤년.swift in Sources */,
