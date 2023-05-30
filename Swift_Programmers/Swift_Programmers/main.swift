@@ -7,6 +7,7 @@
 
 import Foundation
 
-print(solution_k의_개수(10, 50, 5))
+print(solution_A로_B_만들기2("allpe", "apple"))
 
+print(solution_A로_B_만들기2("abcdd", "deabc"))
 
