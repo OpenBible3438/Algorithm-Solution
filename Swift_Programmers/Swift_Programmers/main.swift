@@ -7,6 +7,6 @@
 
 import Foundation
 
-print(solution2(5, 3, 2))
+print(solution_k의_개수(10, 50, 5))
 
 
