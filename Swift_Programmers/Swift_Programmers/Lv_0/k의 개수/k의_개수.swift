@@ -12,8 +12,7 @@ func solution_k의_개수(_ i:Int, _ j:Int, _ k:Int) -> Int {
     var count = 0
     
     for num in i...j {
-        let intToString = String(num)
-        intToString.map {
+        let _ = String(num).map {
             if String($0) == String(k) {
                 count += 1
             }
