@@ -1,4 +1,22 @@
 #  k의 개수
+## Solution
+```swift
+func solution(_ i:Int, _ j:Int, _ k:Int) -> Int {
+    
+    var count = 0
+    
+    for num in i...j {
+        let intToString = String(num)
+        intToString.map {
+            if String($0) == String(k) {
+                count += 1
+            }
+        }
+    }
+    
+    return count
+}
+```
 
 ## 문제 설명
 1부터 13까지의 수에서, 1은 1, 10, 11, 12, 13 이렇게 총 6번 등장합니다.  
