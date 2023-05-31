@@ -13,10 +13,10 @@ func solution_아이스아메리카노(_ money:Int) -> [Int] {
     
     if money < 5500 {
         return [0, money]
-    } else {
-        resultArray.append(money / 5500)
-        resultArray.append(money % 5500)
     }
+    
+    resultArray.append(money / 5500)
+    resultArray.append(money % 5500)
     
     return resultArray
 }
