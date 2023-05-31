@@ -7,7 +7,5 @@
 
 import Foundation
 
-print(solution_A로_B_만들기2("allpe", "apple"))
-
-print(solution_A로_B_만들기2("abcdd", "deabc"))
+print(solution_배열의_유사도(["n", "omg"], ["m", "dot"]))
 
