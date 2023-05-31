@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(solution_배열의_유사도(["n", "omg"], ["m", "dot"]))
+print(solution_옷가게할인받기(580000))
 

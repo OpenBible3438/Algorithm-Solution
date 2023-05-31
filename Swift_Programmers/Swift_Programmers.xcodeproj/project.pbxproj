@@ -10,6 +10,7 @@
 		6532168D298F786500A5F51A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6532168C298F786500A5F51A /* main.swift */; };
 		65321696298F78E400A5F51A /* 기사단원의_무기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65321695298F78E400A5F51A /* 기사단원의_무기.swift */; };
 		653CF04D2A27075800581290 /* 배열의_유사도.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CF04C2A27075800581290 /* 배열의_유사도.swift */; };
+		653CF0512A270B7900581290 /* 옷가게_할인_받기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CF0502A270B7900581290 /* 옷가게_할인_받기.swift */; };
 		654380A22A25C6BE00B0A269 /* k의_개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654380A12A25C6BE00B0A269 /* k의_개수.swift */; };
 		654380A62A25CEB400B0A269 /* 가까운_수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654380A52A25CEB400B0A269 /* 가까운_수.swift */; };
 		654380AA2A25DBD200B0A269 /* A로_B_만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654380A92A25DBD200B0A269 /* A로_B_만들기.swift */; };
@@ -34,6 +35,8 @@
 		65321697298F790600A5F51A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		653CF04C2A27075800581290 /* 배열의_유사도.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "배열의_유사도.swift"; sourceTree = "<group>"; };
 		653CF04E2A27076C00581290 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		653CF0502A270B7900581290 /* 옷가게_할인_받기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "옷가게_할인_받기.swift"; sourceTree = "<group>"; };
+		653CF0522A270B8300581290 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		654380A12A25C6BE00B0A269 /* k의_개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "k의_개수.swift"; sourceTree = "<group>"; };
 		654380A32A25C6F400B0A269 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		654380A52A25CEB400B0A269 /* 가까운_수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가까운_수.swift"; sourceTree = "<group>"; };
@@ -107,9 +110,20 @@
 			path = "배열의 유사도";
 			sourceTree = "<group>";
 		};
+		653CF04F2A270B6600581290 /* 옷가게 할인 받기 */ = {
+			isa = PBXGroup;
+			children = (
+				653CF0502A270B7900581290 /* 옷가게_할인_받기.swift */,
+				653CF0522A270B8300581290 /* README.md */,
+			);
+			name = "옷가게 할인 받기";
+			path = "옷가게 할인 받기";
+			sourceTree = "<group>";
+		};
 		6543809F2A25C61800B0A269 /* Lv_0 */ = {
 			isa = PBXGroup;
 			children = (
+				653CF04F2A270B6600581290 /* 옷가게 할인 받기 */,
 				653CF04B2A27074200581290 /* 배열의 유사도 */,
 				654380A82A25DB9A00B0A269 /* A로 B 만들기 */,
 				654380A42A25CE9E00B0A269 /* 가까운 수 */,
@@ -211,6 +225,7 @@
 				653CF04D2A27075800581290 /* 배열의_유사도.swift in Sources */,
 				6532168D298F786500A5F51A /* main.swift in Sources */,
 				654380AA2A25DBD200B0A269 /* A로_B_만들기.swift in Sources */,
+				653CF0512A270B7900581290 /* 옷가게_할인_받기.swift in Sources */,
 				654380A22A25C6BE00B0A269 /* k의_개수.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
