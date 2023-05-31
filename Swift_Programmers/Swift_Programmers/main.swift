@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(solution_옷가게할인받기(580000))
+print(solution_아이스아메리카노(15010))
 
