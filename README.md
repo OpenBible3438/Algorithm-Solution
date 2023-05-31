@@ -1,6 +1,6 @@
-# Algorithm-Solution
+# Swift Algorithm Solution
 
-## Swift - Programmers
+## Programmers
 ### Lv.0
 | **문제** | **풀이** | **풀이 설명** | **비고** |
 |---------|--------|-----------|--------|
