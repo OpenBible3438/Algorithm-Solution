@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(solution_아이스아메리카노(15010))
+print(solution_중앙값_구하기([9, -1, 0]))
 
