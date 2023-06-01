@@ -2,7 +2,19 @@
 
 ## Solution
 ```swift
+func solution(_ numbers:[Int], _ k:Int) -> Int {
+    
+    var ball = 0
 
+    for _ in 1...k-1 {
+        ball += 2
+        if ball >= numbers.count {
+            ball -= numbers.count
+        }
+    }
+    
+    return numbers[ball]
+}
 ```
 
 ## 문제 설명
