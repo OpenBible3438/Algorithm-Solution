@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(solution_로그인_성공(["programmer01", "15789"], [["programmer02", "111111"], ["programmer00", "134"], ["programmer01", "1145"]]))
+print(solution_치킨_쿠폰(1081))
 
