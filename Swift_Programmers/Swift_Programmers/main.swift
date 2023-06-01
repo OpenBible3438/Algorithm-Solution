@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(solution_중앙값_구하기([9, -1, 0]))
+print(solution_공_던지기([1, 2, 3, 4], 2))
 

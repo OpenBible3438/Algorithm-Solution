@@ -13,6 +13,7 @@
 		653CF0512A270B7900581290 /* 옷가게_할인_받기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CF0502A270B7900581290 /* 옷가게_할인_받기.swift */; };
 		653CF0552A27120A00581290 /* 아이스_아메리카노.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CF0542A27120A00581290 /* 아이스_아메리카노.swift */; };
 		653CF0592A28361800581290 /* 중앙값_구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CF0582A28361800581290 /* 중앙값_구하기.swift */; };
+		653CF05D2A28541500581290 /* 공_던지기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 653CF05C2A28541500581290 /* 공_던지기.swift */; };
 		654380A22A25C6BE00B0A269 /* k의_개수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654380A12A25C6BE00B0A269 /* k의_개수.swift */; };
 		654380A62A25CEB400B0A269 /* 가까운_수.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654380A52A25CEB400B0A269 /* 가까운_수.swift */; };
 		654380AA2A25DBD200B0A269 /* A로_B_만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654380A92A25DBD200B0A269 /* A로_B_만들기.swift */; };
@@ -43,6 +44,8 @@
 		653CF0562A27121300581290 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		653CF0582A28361800581290 /* 중앙값_구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "중앙값_구하기.swift"; sourceTree = "<group>"; };
 		653CF05A2A28362700581290 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		653CF05C2A28541500581290 /* 공_던지기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "공_던지기.swift"; sourceTree = "<group>"; };
+		653CF05E2A28541F00581290 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		654380A12A25C6BE00B0A269 /* k의_개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "k의_개수.swift"; sourceTree = "<group>"; };
 		654380A32A25C6F400B0A269 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		654380A52A25CEB400B0A269 /* 가까운_수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "가까운_수.swift"; sourceTree = "<group>"; };
@@ -146,9 +149,20 @@
 			path = "중앙값 구하기";
 			sourceTree = "<group>";
 		};
+		653CF05B2A28540300581290 /* 공 던지기 */ = {
+			isa = PBXGroup;
+			children = (
+				653CF05C2A28541500581290 /* 공_던지기.swift */,
+				653CF05E2A28541F00581290 /* README.md */,
+			);
+			name = "공 던지기";
+			path = "공 던지기";
+			sourceTree = "<group>";
+		};
 		6543809F2A25C61800B0A269 /* Lv_0 */ = {
 			isa = PBXGroup;
 			children = (
+				653CF05B2A28540300581290 /* 공 던지기 */,
 				653CF0572A28360500581290 /* 중앙값 구하기 */,
 				653CF0532A2711FC00581290 /* 아이스 아메리카노 */,
 				653CF04F2A270B6600581290 /* 옷가게 할인 받기 */,
@@ -255,6 +269,7 @@
 				6532168D298F786500A5F51A /* main.swift in Sources */,
 				654380AA2A25DBD200B0A269 /* A로_B_만들기.swift in Sources */,
 				653CF0512A270B7900581290 /* 옷가게_할인_받기.swift in Sources */,
+				653CF05D2A28541500581290 /* 공_던지기.swift in Sources */,
 				653CF0552A27120A00581290 /* 아이스_아메리카노.swift in Sources */,
 				654380A22A25C6BE00B0A269 /* k의_개수.swift in Sources */,
 			);
