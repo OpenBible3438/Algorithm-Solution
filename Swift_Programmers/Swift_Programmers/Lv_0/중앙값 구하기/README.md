@@ -2,7 +2,13 @@
 
 ## Solution
 ```swift
-
+func solution(_ array:[Int]) -> Int {
+    
+    let sortedArray = array.sorted()
+    let center = Int(sortedArray.count / 2)
+    
+    return sortedArray[center]
+}
 ```
 
 ## 문제 설명
