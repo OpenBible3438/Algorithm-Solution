@@ -7,5 +7,5 @@
 
 import Foundation
 
-print(solution_공_던지기([1, 2, 3, 4], 2))
+print(solution_로그인_성공(["programmer01", "15789"], [["programmer02", "111111"], ["programmer00", "134"], ["programmer01", "1145"]]))
 
