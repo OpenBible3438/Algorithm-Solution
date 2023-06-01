@@ -10,7 +10,8 @@
 |[배열의 유사도](https://school.programmers.co.kr/learn/courses/30/lessons/120903)|[Solution](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9C%A0%EC%82%AC%EB%8F%84)|-|코딩테스트 입문|
 |[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)|[Solution](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%95%84%EC%9D%B4%EC%8A%A4%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8)|-|코딩테스트 입문|
 |[옷가게 할인 받기](https://school.programmers.co.kr/learn/courses/30/lessons/120818)|[Solution](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%98%B7%EA%B0%80%EA%B2%8C%20%ED%95%A0%EC%9D%B8%20%EB%B0%9B%EA%B8%B0)|-|코딩테스트 입문|
-
+|[중앙값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120811)|[Solution](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%A4%91%EC%95%99%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)|-|코딩테스트 입문|
+|[공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)|[Solution](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EA%B3%B5%20%EB%8D%98%EC%A7%80%EA%B8%B0)|-|코딩테스트 입문|
 
 
 ### Lv.1
