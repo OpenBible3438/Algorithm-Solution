@@ -7,5 +7,4 @@
 
 import Foundation
 
-print(solution_치킨_쿠폰(1081))
-
+print(solution_등수_매기기([[1, 3], [3, 1], [2, 3], [3, 2], [1, 2], [0, 0]]))
