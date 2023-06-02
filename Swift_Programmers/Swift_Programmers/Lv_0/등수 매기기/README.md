@@ -2,7 +2,24 @@
 
 ## Solution
 ```swift
-
+func solution(_ score:[[Int]]) -> [Int] {
+    
+    var resultArray = [Int]()
+    var rank = 1
+    
+    let averageArray = score.map { ($0[0] + $0[1]) } // 2 나누기 제외
+    for i in averageArray {
+        rank = 1
+        for j in averageArray {
+            if i < j {
+                rank += 1
+            }
+        }
+        resultArray.append(rank)
+    }
+        
+    return resultArray
+}
 ```
 
 ## 문제 설명
