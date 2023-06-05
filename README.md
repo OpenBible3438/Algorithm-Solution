@@ -14,6 +14,7 @@
 |[공 던지기](https://school.programmers.co.kr/learn/courses/30/lessons/120843)|[Solution](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EA%B3%B5%20%EB%8D%98%EC%A7%80%EA%B8%B0)|-|코딩테스트 입문|
 |[로그인 성공?](https://school.programmers.co.kr/learn/courses/30/lessons/120883)|[Solution](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%A1%9C%EA%B7%B8%EC%9D%B8%20%EC%84%B1%EA%B3%B5%3F)|-|코딩테스트 입문|
 |[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|[Solution](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%B9%98%ED%82%A8%20%EC%BF%A0%ED%8F%B0)|-|코딩테스트 입문|
+|[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|[Solution](./Swift_Programmers/Swift_Programmers/Lv_0/등수 매기기/)|-|코딩테스트 입문|
 
 
 ### Lv.1
