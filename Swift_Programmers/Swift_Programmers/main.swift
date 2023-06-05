@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_등수_매기기([[1, 3], [3, 1], [2, 3], [3, 2], [1, 2], [0, 0]]))
+print(solution_유한소수_판별하기(12, 21))
