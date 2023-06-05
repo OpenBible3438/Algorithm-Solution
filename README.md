@@ -17,7 +17,8 @@
 |[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0)|-|코딩테스트 입문|
 |[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)|[설명](https://im-babycoder.tistory.com/68)|코딩테스트 입문|
 |[배열 만들기 6](https://school.programmers.co.kr/learn/courses/30/lessons/181859)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%206)|-|코딩 기초 트레이닝|
-|[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)|[풀이]()|-|코딩 기초 트레이닝|
+|[대소문자 바꿔서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181949)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%20%EB%B0%94%EA%BF%94%EC%84%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)|-|코딩 기초 트레이닝|
+|[저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%A0%80%EC%A3%BC%EC%9D%98%20%EC%88%AB%EC%9E%90%203)|-|코딩테스트 입문|
 
 
 
