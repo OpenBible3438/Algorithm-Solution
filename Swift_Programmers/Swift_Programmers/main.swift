@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_유한소수_판별하기(12, 21))
+print(solution_배열_만들기_6([0, 1, 1, 0]))
