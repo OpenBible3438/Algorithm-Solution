@@ -7,4 +7,4 @@
 
 import Foundation
 
-
+print(solution_저주의_숫자_3(40))
