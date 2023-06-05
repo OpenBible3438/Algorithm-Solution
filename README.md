@@ -16,6 +16,7 @@
 |[치킨 쿠폰](https://school.programmers.co.kr/learn/courses/30/lessons/120884)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%B9%98%ED%82%A8%20%EC%BF%A0%ED%8F%B0)|-|코딩테스트 입문|
 |[등수 매기기](https://school.programmers.co.kr/learn/courses/30/lessons/120882)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%93%B1%EC%88%98%20%EB%A7%A4%EA%B8%B0%EA%B8%B0)|-|코딩테스트 입문|
 |[유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%9C%A0%ED%95%9C%EC%86%8C%EC%88%98%20%ED%8C%90%EB%B3%84%ED%95%98%EA%B8%B0)|[설명](https://im-babycoder.tistory.com/68)|코딩테스트 입문|
+|[배열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181859)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%206)|-|코딩 기초 트레이닝|
 
 
 ### Lv.1
