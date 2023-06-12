@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_저주의_숫자_3(40))
+print(solution_그림_확대(["x.x", ".x.", "x.x"], 3))
