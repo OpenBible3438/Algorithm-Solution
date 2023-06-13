@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_특이한_정렬([600, 400, 300, 200, 700, 800, 100, 900], 500))
+print(solution_문자열_밀기("atat", "tata"))
