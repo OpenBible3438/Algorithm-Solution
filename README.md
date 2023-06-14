@@ -22,6 +22,7 @@
 |[그림 확대](https://school.programmers.co.kr/learn/courses/30/lessons/181836)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EA%B7%B8%EB%A6%BC%20%ED%99%95%EB%8C%80)|-|코딩 기초 트레이닝|
 |[특이한 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120880)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%ED%8A%B9%EC%9D%B4%ED%95%9C%20%EC%A0%95%EB%A0%AC)|-|코딩테스트 입문|
 |[문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%80%EA%B8%B0)|-|코딩테스트 입문|
+|[전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%A0%84%EA%B5%AD%20%EB%8C%80%ED%9A%8C%20%EC%84%A0%EB%B0%9C%EA%B3%A0%EC%82%AC)|-|코딩 기초 트레이닝|
 
 
 ### Lv.1
