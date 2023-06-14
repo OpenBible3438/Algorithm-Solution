@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_문자열_밀기("atat", "tata"))
+print(solution_전국_대회_선발_고사([6, 1, 5, 2, 3, 4], [true, false, true, false, false, true]    ))
