@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_배열_만들기_2(5, 555))
+print(solution_최빈값_구하기([0, 0, 0, 1]))

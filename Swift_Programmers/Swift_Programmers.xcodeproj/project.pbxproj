@@ -30,6 +30,7 @@
 		659CF2082A384F4700ADB338 /* 전국_대회_선발_고사.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2072A384F4700ADB338 /* 전국_대회_선발_고사.swift */; };
 		659CF20C2A39A50B00ADB338 /* 다항식_더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF20B2A39A50B00ADB338 /* 다항식_더하기.swift */; };
 		659CF2102A3AE01800ADB338 /* 배열_만들기_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF20F2A3AE01800ADB338 /* 배열_만들기_2.swift */; };
+		659CF2152A3AF62F00ADB338 /* 최빈값_구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2142A3AF62F00ADB338 /* 최빈값_구하기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -91,6 +92,8 @@
 		659CF20D2A39A51900ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		659CF20F2A3AE01800ADB338 /* 배열_만들기_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "배열_만들기_2.swift"; sourceTree = "<group>"; };
 		659CF2122A3AE02C00ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		659CF2142A3AF62F00ADB338 /* 최빈값_구하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "최빈값_구하기.swift"; sourceTree = "<group>"; };
+		659CF2162A3AF63500ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -291,6 +294,7 @@
 		6543809F2A25C61800B0A269 /* Lv_0 */ = {
 			isa = PBXGroup;
 			children = (
+				659CF2132A3AF61A00ADB338 /* 최빈값 구하기 */,
 				659CF20E2A3AE00700ADB338 /* 배열 만들기 2 */,
 				659CF20A2A39A4FC00ADB338 /* 다항식 더하기 */,
 				659CF2062A384F2F00ADB338 /* 전국 대회 선발고사 */,
@@ -386,6 +390,16 @@
 			path = "배열 만들기 2";
 			sourceTree = "<group>";
 		};
+		659CF2132A3AF61A00ADB338 /* 최빈값 구하기 */ = {
+			isa = PBXGroup;
+			children = (
+				659CF2142A3AF62F00ADB338 /* 최빈값_구하기.swift */,
+				659CF2162A3AF63500ADB338 /* README.md */,
+			);
+			name = "최빈값 구하기";
+			path = "최빈값 구하기";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -460,6 +474,7 @@
 				654380AA2A25DBD200B0A269 /* A로_B_만들기.swift in Sources */,
 				653CF0512A270B7900581290 /* 옷가게_할인_받기.swift in Sources */,
 				653CF0652A28773500581290 /* 치킨_쿠폰.swift in Sources */,
+				659CF2152A3AF62F00ADB338 /* 최빈값_구하기.swift in Sources */,
 				653CF0712A2DB00400581290 /* 배열_만들기_6.swift in Sources */,
 				653CF0612A286BC700581290 /* 로그인_성공?.swift in Sources */,
 				653CF05D2A28541500581290 /* 공_던지기.swift in Sources */,
