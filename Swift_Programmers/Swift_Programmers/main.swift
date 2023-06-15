@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_다항식_더하기("1x + 0"))
+print(solution_배열_만들기_2(5, 555))
