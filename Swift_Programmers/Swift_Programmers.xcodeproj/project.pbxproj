@@ -28,6 +28,7 @@
 		654380AA2A25DBD200B0A269 /* A로_B_만들기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 654380A92A25DBD200B0A269 /* A로_B_만들기.swift */; };
 		659CF2042A380C5400ADB338 /* 문자열_밀기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2032A380C5400ADB338 /* 문자열_밀기.swift */; };
 		659CF2082A384F4700ADB338 /* 전국_대회_선발_고사.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2072A384F4700ADB338 /* 전국_대회_선발_고사.swift */; };
+		659CF20C2A39A50B00ADB338 /* 다항식_더하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF20B2A39A50B00ADB338 /* 다항식_더하기.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -85,6 +86,8 @@
 		659CF2052A380C5B00ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		659CF2072A384F4700ADB338 /* 전국_대회_선발_고사.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "전국_대회_선발_고사.swift"; sourceTree = "<group>"; };
 		659CF2092A384F4D00ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		659CF20B2A39A50B00ADB338 /* 다항식_더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다항식_더하기.swift"; sourceTree = "<group>"; };
+		659CF20D2A39A51900ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -285,6 +288,7 @@
 		6543809F2A25C61800B0A269 /* Lv_0 */ = {
 			isa = PBXGroup;
 			children = (
+				659CF20A2A39A4FC00ADB338 /* 다항식 더하기 */,
 				659CF2062A384F2F00ADB338 /* 전국 대회 선발고사 */,
 				659CF2022A380C4600ADB338 /* 문자열 밀기 */,
 				653CF0B02A36EBE000581290 /* 특이한 정렬 */,
@@ -358,6 +362,16 @@
 			path = "전국 대회 선발고사";
 			sourceTree = "<group>";
 		};
+		659CF20A2A39A4FC00ADB338 /* 다항식 더하기 */ = {
+			isa = PBXGroup;
+			children = (
+				659CF20B2A39A50B00ADB338 /* 다항식_더하기.swift */,
+				659CF20D2A39A51900ADB338 /* README.md */,
+			);
+			name = "다항식 더하기";
+			path = "다항식 더하기";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -418,6 +432,7 @@
 			files = (
 				654380A62A25CEB400B0A269 /* 가까운_수.swift in Sources */,
 				65321696298F78E400A5F51A /* 기사단원의_무기.swift in Sources */,
+				659CF20C2A39A50B00ADB338 /* 다항식_더하기.swift in Sources */,
 				653CF07D2A2DC78400581290 /* 그림_확대.swift in Sources */,
 				653CF0692A28828B00581290 /* 등수_매기기.swift in Sources */,
 				653CF0592A28361800581290 /* 중앙값_구하기.swift in Sources */,
