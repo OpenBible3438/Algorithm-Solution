@@ -24,7 +24,7 @@
 |[문자열 밀기](https://school.programmers.co.kr/learn/courses/30/lessons/120921)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%B0%80%EA%B8%B0)|-|코딩테스트 입문|
 |[전국 대회 선발 고사](https://school.programmers.co.kr/learn/courses/30/lessons/181851)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%A0%84%EA%B5%AD%20%EB%8C%80%ED%9A%8C%20%EC%84%A0%EB%B0%9C%EA%B3%A0%EC%82%AC)|-|코딩 기초 트레이닝|
 |[다항식 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/120863)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%8B%A4%ED%95%AD%EC%8B%9D%20%EB%8D%94%ED%95%98%EA%B8%B0)|-|코딩테스트 입문|
-
+|[배열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/181921)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202)|-|코딩 기초 트이닝|
 
 ### Lv.1
 | **문제**                                                                           | **풀이** | **풀이 설명** | **비고**                       |
