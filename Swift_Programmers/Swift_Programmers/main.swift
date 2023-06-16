@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_최빈값_구하기([0, 0, 0, 1]))
+print(solution_코드_처리하기("abc1abc1abc"))
