@@ -27,6 +27,7 @@
 |[배열 만들기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181921)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%B0%B0%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0%202)|-|코딩 기초 트이닝|
 |[최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%B5%9C%EB%B9%88%EA%B0%92%20%EA%B5%AC%ED%95%98%EA%B8%B0)|-|코딩테스트 입문|
 |[코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%BD%94%EB%93%9C%20%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)|-|코딩 기초 트레이닝|
+|[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)|-|코딩 기초 트레이닝|
 
 ### Lv.1
 | **문제**                                                                           | **풀이** | **풀이 설명** | **비고**                       |
