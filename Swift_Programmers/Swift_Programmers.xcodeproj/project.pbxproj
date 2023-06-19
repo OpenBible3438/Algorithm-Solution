@@ -34,6 +34,7 @@
 		659CF2192A3BF72800ADB338 /* 코드_처리하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2182A3BF72800ADB338 /* 코드_처리하기.swift */; };
 		659CF21D2A3FEE8800ADB338 /* 문자열_출력하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF21C2A3FEE8800ADB338 /* 문자열_출력하기.swift */; };
 		659CF2212A3FF05E00ADB338 /* OX퀴즈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2202A3FF05E00ADB338 /* OX퀴즈.swift */; };
+		659CF2252A3FF41100ADB338 /* 분수의_덧셈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2242A3FF41100ADB338 /* 분수의_덧셈.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -103,6 +104,8 @@
 		659CF21E2A3FEE8F00ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		659CF2202A3FF05E00ADB338 /* OX퀴즈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OX퀴즈.swift"; sourceTree = "<group>"; };
 		659CF2222A3FF06A00ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		659CF2242A3FF41100ADB338 /* 분수의_덧셈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "분수의_덧셈.swift"; sourceTree = "<group>"; };
+		659CF2262A3FF41800ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -303,6 +306,7 @@
 		6543809F2A25C61800B0A269 /* Lv_0 */ = {
 			isa = PBXGroup;
 			children = (
+				659CF2232A3FF40300ADB338 /* 분수의 덧셈 */,
 				659CF21F2A3FF04C00ADB338 /* OX퀴즈 */,
 				659CF21B2A3FEE7D00ADB338 /* 문자열 출력하기 */,
 				659CF2172A3BF71D00ADB338 /* 코드 처리하기 */,
@@ -442,6 +446,16 @@
 			path = "OX퀴즈";
 			sourceTree = "<group>";
 		};
+		659CF2232A3FF40300ADB338 /* 분수의 덧셈 */ = {
+			isa = PBXGroup;
+			children = (
+				659CF2242A3FF41100ADB338 /* 분수의_덧셈.swift */,
+				659CF2262A3FF41800ADB338 /* README.md */,
+			);
+			name = "분수의 덧셈";
+			path = "분수의 덧셈";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -508,6 +522,7 @@
 				659CF2212A3FF05E00ADB338 /* OX퀴즈.swift in Sources */,
 				653CF0692A28828B00581290 /* 등수_매기기.swift in Sources */,
 				659CF2192A3BF72800ADB338 /* 코드_처리하기.swift in Sources */,
+				659CF2252A3FF41100ADB338 /* 분수의_덧셈.swift in Sources */,
 				653CF0592A28361800581290 /* 중앙값_구하기.swift in Sources */,
 				653CF06D2A29B72400581290 /* 유한소수_판별하기.swift in Sources */,
 				659CF21D2A3FEE8800ADB338 /* 문자열_출력하기.swift in Sources */,
