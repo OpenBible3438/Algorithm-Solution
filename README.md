@@ -30,6 +30,7 @@
 |[문자열 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181952)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0)|-|코딩 기초 트레이닝|
 |[OX퀴즈](https://school.programmers.co.kr/learn/courses/30/lessons/120907)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/OX%ED%80%B4%EC%A6%88)|-|코딩테스트 입문|
 |[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88)|-|코딩테스트 입문|
+|[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90)|-|코딩테스트 입문|
 
 ### Lv.1
 | **문제**                                                                           | **풀이** | **풀이 설명** | **비고**                       |
