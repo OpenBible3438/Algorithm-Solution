@@ -33,6 +33,7 @@
 		659CF2152A3AF62F00ADB338 /* 최빈값_구하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2142A3AF62F00ADB338 /* 최빈값_구하기.swift */; };
 		659CF2192A3BF72800ADB338 /* 코드_처리하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2182A3BF72800ADB338 /* 코드_처리하기.swift */; };
 		659CF21D2A3FEE8800ADB338 /* 문자열_출력하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF21C2A3FEE8800ADB338 /* 문자열_출력하기.swift */; };
+		659CF2212A3FF05E00ADB338 /* OX퀴즈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2202A3FF05E00ADB338 /* OX퀴즈.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -100,6 +101,8 @@
 		659CF21A2A3BF7E900ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		659CF21C2A3FEE8800ADB338 /* 문자열_출력하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "문자열_출력하기.swift"; sourceTree = "<group>"; };
 		659CF21E2A3FEE8F00ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		659CF2202A3FF05E00ADB338 /* OX퀴즈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OX퀴즈.swift"; sourceTree = "<group>"; };
+		659CF2222A3FF06A00ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -300,6 +303,7 @@
 		6543809F2A25C61800B0A269 /* Lv_0 */ = {
 			isa = PBXGroup;
 			children = (
+				659CF21F2A3FF04C00ADB338 /* OX퀴즈 */,
 				659CF21B2A3FEE7D00ADB338 /* 문자열 출력하기 */,
 				659CF2172A3BF71D00ADB338 /* 코드 처리하기 */,
 				659CF2132A3AF61A00ADB338 /* 최빈값 구하기 */,
@@ -428,6 +432,16 @@
 			path = "문자열 출력하기";
 			sourceTree = "<group>";
 		};
+		659CF21F2A3FF04C00ADB338 /* OX퀴즈 */ = {
+			isa = PBXGroup;
+			children = (
+				659CF2202A3FF05E00ADB338 /* OX퀴즈.swift */,
+				659CF2222A3FF06A00ADB338 /* README.md */,
+			);
+			name = "OX퀴즈";
+			path = "OX퀴즈";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -491,6 +505,7 @@
 				659CF20C2A39A50B00ADB338 /* 다항식_더하기.swift in Sources */,
 				659CF2102A3AE01800ADB338 /* 배열_만들기_2.swift in Sources */,
 				653CF07D2A2DC78400581290 /* 그림_확대.swift in Sources */,
+				659CF2212A3FF05E00ADB338 /* OX퀴즈.swift in Sources */,
 				653CF0692A28828B00581290 /* 등수_매기기.swift in Sources */,
 				659CF2192A3BF72800ADB338 /* 코드_처리하기.swift in Sources */,
 				653CF0592A28361800581290 /* 중앙값_구하기.swift in Sources */,
