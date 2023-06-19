@@ -35,6 +35,7 @@
 		659CF21D2A3FEE8800ADB338 /* 문자열_출력하기.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF21C2A3FEE8800ADB338 /* 문자열_출력하기.swift */; };
 		659CF2212A3FF05E00ADB338 /* OX퀴즈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2202A3FF05E00ADB338 /* OX퀴즈.swift */; };
 		659CF2252A3FF41100ADB338 /* 분수의_덧셈.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2242A3FF41100ADB338 /* 분수의_덧셈.swift */; };
+		659CF2292A40114C00ADB338 /* 다음에_올_숫자.swift in Sources */ = {isa = PBXBuildFile; fileRef = 659CF2282A40114C00ADB338 /* 다음에_올_숫자.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -106,6 +107,8 @@
 		659CF2222A3FF06A00ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		659CF2242A3FF41100ADB338 /* 분수의_덧셈.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "분수의_덧셈.swift"; sourceTree = "<group>"; };
 		659CF2262A3FF41800ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		659CF2282A40114C00ADB338 /* 다음에_올_숫자.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "다음에_올_숫자.swift"; sourceTree = "<group>"; };
+		659CF22A2A40115400ADB338 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -306,6 +309,7 @@
 		6543809F2A25C61800B0A269 /* Lv_0 */ = {
 			isa = PBXGroup;
 			children = (
+				659CF2272A40113400ADB338 /* 다음에 올 숫자 */,
 				659CF2232A3FF40300ADB338 /* 분수의 덧셈 */,
 				659CF21F2A3FF04C00ADB338 /* OX퀴즈 */,
 				659CF21B2A3FEE7D00ADB338 /* 문자열 출력하기 */,
@@ -456,6 +460,16 @@
 			path = "분수의 덧셈";
 			sourceTree = "<group>";
 		};
+		659CF2272A40113400ADB338 /* 다음에 올 숫자 */ = {
+			isa = PBXGroup;
+			children = (
+				659CF2282A40114C00ADB338 /* 다음에_올_숫자.swift */,
+				659CF22A2A40115400ADB338 /* README.md */,
+			);
+			name = "다음에 올 숫자";
+			path = "다음에 올 숫자";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -514,6 +528,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				659CF2292A40114C00ADB338 /* 다음에_올_숫자.swift in Sources */,
 				654380A62A25CEB400B0A269 /* 가까운_수.swift in Sources */,
 				65321696298F78E400A5F51A /* 기사단원의_무기.swift in Sources */,
 				659CF20C2A39A50B00ADB338 /* 다항식_더하기.swift in Sources */,

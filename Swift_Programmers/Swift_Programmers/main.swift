@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_분수의_덧셈(1, 2, 3, 4))
+print(solution_다음에_올_숫자([2, 4, 8]))
