@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_다음에_올_숫자([2, 4, 8]))
+print(solution_연속된_수의_합(5, 5))
