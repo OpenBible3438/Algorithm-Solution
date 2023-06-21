@@ -32,6 +32,7 @@
 |[분수의 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/120808)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%B6%84%EC%88%98%EC%9D%98%20%EB%8D%A7%EC%85%88)|-|코딩테스트 입문|
 |[다음에 올 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/120924)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%8B%A4%EC%9D%8C%EC%97%90%20%EC%98%AC%20%EC%88%AB%EC%9E%90)|-|코딩테스트 입문|
 |[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%97%B0%EC%86%8D%EB%90%9C%20%EC%88%98%EC%9D%98%20%ED%95%A9)|-|코딩테스트 입문|
+|[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80)|-|코딩테스트 입문|
 
 ### Lv.1
 | **문제**                                                                           | **풀이** | **풀이 설명** | **비고**                       |
