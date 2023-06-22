@@ -20,6 +20,19 @@ func solution(_ arr:[Int], _ query:[Int]) -> [Int] {
     
     return result
 }
+
+// 삼항연산자 사용
+func solution(_ arr:[Int], _ query:[Int]) -> [Int] {
+    
+    var result = arr
+    
+    for i in 0 ..< query.count {
+        let index = query[i]
+        result = i % 2 == 0 ? Array(result.prefix(upTo: index + 1)) : Array(result.suffix(from: index))
+    }
+    
+    return result
+}
 ```
 
 ## 문제 설명
