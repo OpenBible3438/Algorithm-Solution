@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_배열_조각하기([0, 1, 2, 3, 4, 5, 6, 7], [4, 1, 2]))
+print(solution_주사위_게임_3(6, 4, 2, 5))
