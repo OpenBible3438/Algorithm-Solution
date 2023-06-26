@@ -34,6 +34,7 @@
 |[연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%97%B0%EC%86%8D%EB%90%9C%20%EC%88%98%EC%9D%98%20%ED%95%A9)|-|코딩테스트 입문|
 |[안전지대](https://school.programmers.co.kr/learn/courses/30/lessons/120866)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%95%88%EC%A0%84%EC%A7%80%EB%8C%80)|-|코딩테스트 입문|
 |[배열 조각하기](https://school.programmers.co.kr/learn/courses/30/lessons/181893)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EB%B0%B0%EC%97%B4%20%EC%A1%B0%EA%B0%81%ED%95%98%EA%B8%B0)|-|코딩 기초 트레이닝|
+|[주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916)|[풀이](https://github.com/OpenBible3438/Algorithm-Solution/tree/main/Swift_Programmers/Swift_Programmers/Lv_0/%EC%A3%BC%EC%82%AC%EC%9C%84%20%EA%B2%8C%EC%9E%84%203)|-|코딩 기초 트레이닝|
 
 ### Lv.1
 | **문제**                                                                           | **풀이** | **풀이 설명** | **비고**                       |
