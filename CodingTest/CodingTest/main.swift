@@ -12,18 +12,27 @@
 
 import Foundation
 
-let cntN = Int(readLine()!)!
-let numArray = readLine()!.split(separator: " ").map{ Int(String($0))! }
+// N M K
+let rules = readLine()!.split(separator: " ").map{ Int(String($0))! }
+var numbers = readLine()!.split(separator: " ").map{ Int(String($0))! }
 
-let sortedArray = numArray.sorted()
+let sortedNumbers = numbers.sorted(by: >)
+let maxNum1 = sortedNumbers[0]
+let maxNum2 = sortedNumbers[1]
 
-var totalLength = 0
+var resultSum = 0
 
-var tempNum = sortedArray.first!
-for num in sortedArray {
-    totalLength += abs(tempNum - num)
-    tempNum = num
+let maxRepeat = rules[2]
+var cntRepeat = 0
+
+for _ in 1 ... rules[1] {
+    if cntRepeat == maxRepeat {
+        resultSum += maxNum2
+        cntRepeat = 0
+        continue
+    }
+    resultSum += maxNum1
+    cntRepeat += 1
 }
-totalLength += abs(sortedArray.last! - sortedArray.first!)
 
-print(totalLength)
+print(resultSum)
