@@ -12,31 +12,18 @@
 
 import Foundation
 
-struct Metting {
-    var start: Int
-    var end: Int
+let cntN = Int(readLine()!)!
+let numArray = readLine()!.split(separator: " ").map{ Int(String($0))! }
+
+let sortedArray = numArray.sorted()
+
+var totalLength = 0
+
+var tempNum = sortedArray.first!
+for num in sortedArray {
+    totalLength += abs(tempNum - num)
+    tempNum = num
 }
+totalLength += abs(sortedArray.last! - sortedArray.first!)
 
-let mettingCnt = Int(readLine()!)!
-var mettings: [Metting] = Array(repeating: Metting(start: 0, end: 0), count: mettingCnt)
-
-for cnt in 0 ..< mettingCnt {
-    let times = readLine()!.split(separator: " ").map{ Int(String($0))! }
-    mettings[cnt].start = times[0]
-    mettings[cnt].end = times[1]
-}
-
-let sortedMettings = mettings.sorted{ $0.end == $1.end ? $0.start < $1.start : $0.end < $1.end }
-
-var resultCnt = 0
-var currentTime = 0
-
-for metting in sortedMettings {
-    if metting.start >= currentTime {
-        resultCnt += 1
-        currentTime = metting.end
-    }
-}
-
-print(resultCnt)
-
+print(totalLength)
