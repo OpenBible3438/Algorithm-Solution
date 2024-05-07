@@ -7,4 +7,4 @@
 
 import Foundation
 
-print(solution_주사위_게임_3(6, 4, 2, 5))
+print(solution120813(10))
