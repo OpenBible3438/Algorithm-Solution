@@ -2,7 +2,9 @@
 
 ## Solution
 ``` swift
-
+func solution_머쓱이보다키큰사람(_ array:[Int], _ height:Int) -> Int {
+    return array.filter{ $0 > height }.count
+}
 ```
 
 ## 문제 설명
