@@ -5,6 +5,7 @@
 //  Created by 편성경 on 5/3/24.
 //
 
+// MARK: - 짝수는 싫어요 -
 import Foundation
 
 func solution120813(_ n:Int) -> [Int] {
